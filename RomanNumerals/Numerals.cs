@@ -4,10 +4,10 @@ public class Numerals
 {
     public string Convert(int number)
     {
-        if (number == 1)
+        if (number < 4)
         {
-            return "I";
+            return new ('I', number);
         }
-        return "II";
-    }
+        return number == 4 ? "IV" : "V";
+    } 
 }
