@@ -1,6 +1,14 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e0d966c_002D2bdd_002D4ad5_002D8e28_002D2ecf2fbd6fa5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e0d966c_002D2bdd_002D4ad5_002D8e28_002D2ecf2fbd6fa5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Not&gt;&#xD;
-    &lt;Project Location="C:\Users\laura\RiderProjects\TDDPractice\FIzzBUzzTests" Presentation="&amp;lt;FIzzBUzzTests&amp;gt;" /&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;Project Location="C:\Users\laura\RiderProjects\AgileTechnicalPracticesDistilled\RomanNumeralsTests" Presentation="&amp;lt;RomanNumeralsTests&amp;gt;" /&gt;&#xD;
+      &lt;Project Location="C:\Users\laura\RiderProjects\AgileTechnicalPracticesDistilled\FIzzBUzzTests" Presentation="&amp;lt;FIzzBUzzTests&amp;gt;" /&gt;&#xD;
+    &lt;/Or&gt;&#xD;
   &lt;/Not&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0113b8d_002D696d_002D4e02_002D887e_002D5091919204cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="when_I_pass_in_2024_then_I_will_get_true" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5663F4E1-9A36-4BFA-BE3C-F41298B8DB00::net6.0::LeapYearTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

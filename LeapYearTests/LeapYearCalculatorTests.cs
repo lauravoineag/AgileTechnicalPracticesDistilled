@@ -21,4 +21,16 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(false));
     }
+    
+    [Test]
+    public void when_I_pass_in_2024_then_I_will_get_true()
+    {
+        //Arrange
+        var leapYearCalc = new LeapYearCalc();
+        //Act
+        var actual = leapYearCalc.IsLeapYear(2024);
+        //Assert
+        Assert.That(actual, Is.EqualTo(true));
+    } 
 }
+    
