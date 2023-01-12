@@ -7,7 +7,8 @@ public class Numerals
         if (number < 4)
         {
             return new ('I', number);
+            //string constructor - returns a string with character * repeated n times
         }
-        return number == 4 ? "IV" : "V";
+        return number == 4 ? "IV" : "V"; //ternary operator
     } 
 }
