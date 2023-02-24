@@ -7,8 +7,24 @@
     &lt;/Or&gt;&#xD;
   &lt;/Not&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0113b8d_002D696d_002D4e02_002D887e_002D5091919204cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="when_I_pass_in_2024_then_I_will_get_true" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9445868c_002D7976_002D430a_002D9531_002D77ff19d6f540/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_I_pass_in_MMRMMLM_I_receive_char_2_3_N_" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::5663F4E1-9A36-4BFA-BE3C-F41298B8DB00::net6.0::LeapYearTests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BA5DC195-FB31-4F7E-8C30-52CDD6DA5437::net7.0::SimpleMarsRoverTests.MarsRoverTests.when_I_pass_in_MMRMMLM_I_receive_char_2_3_N_&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a190fe32_002D6c22_002D4efe_002Da237_002D4a8c1626233c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="when_I_pass_in_MMRMMLM_I_receive_char_2_3_N_ #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BA5DC195-FB31-4F7E-8C30-52CDD6DA5437::net7.0::SimpleMarsRoverTests.MarsRoverTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0113b8d_002D696d_002D4e02_002D887e_002D5091919204cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_I_pass_in_2024_then_I_will_get_true" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::5663F4E1-9A36-4BFA-BE3C-F41298B8DB00::net6.0::LeapYearTests.Tests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BA5DC195-FB31-4F7E-8C30-52CDD6DA5437::net7.0::SimpleMarsRoverTests.MarsRoverTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Not&gt;&#xD;
+      &lt;Project Location="C:\Users\laura\RiderProjects\AgileTechnicalPracticesDistilled\LeapYearTests" Presentation="&amp;lt;LeapYearTests&amp;gt;" /&gt;&#xD;
+    &lt;/Not&gt;&#xD;
+  &lt;/And&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
